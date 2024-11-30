@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-
+import os
 # Define the Excel files
 excel_files = [
     'files/INNOVIX_Elbonie.xlsx',
@@ -9,52 +9,66 @@ excel_files = [
     'files/BRISTOR_Zegoland.xlsx'
 ]
 
-# Create a file selector
-selected_file = st.selectbox('Select an Excel file:', excel_files)
+# Dictionary to store dataframes by sheet name
+sheet_data = {
+    'Activity': [],
+    'Demand volumes': []
+}
 
-# Read the selected Excel file
-xls = pd.ExcelFile(selected_file)
+# Read each Excel file and store data by sheet
+for file in excel_files:
+    try:
+        xls = pd.ExcelFile(file)
+        for sheet_name in ['Activity', 'Demand volumes']:
+            if sheet_name in xls.sheet_names:
+                df = pd.read_excel(file, sheet_name=sheet_name)
+                sheet_data[sheet_name].append({
+                    'file': file,
+                    'columns': set(df.columns)
+                })
+    except Exception as e:
+        st.error(f"Error reading {file}: {str(e)}")
 
-# Get all sheet names except 'Main'
-sheet_names = [sheet for sheet in xls.sheet_names if sheet.lower() != 'main']
+# Display column comparison for each sheet
+st.write("### Column Comparison Analysis")
 
-# Create a sheet selector
-selected_sheet = st.selectbox('Select a sheet:', sheet_names)
-
-# Read the selected sheet
-df = pd.read_excel(selected_file, sheet_name=selected_sheet)
-
-# Display basic information about the data
-st.write("### Data Overview")
-st.write(f"Number of rows: {len(df)}")
-st.write(f"Number of columns: {len(df.columns)}")
-st.write("\n### Column Information")
-st.write(df.dtypes)
-
-# Display summary statistics
-st.write("\n### Summary Statistics")
-st.write(df.describe())
-
-# Display distinct values for object columns
-st.write("\n### Distinct Values in Categorical Columns")
-object_columns = df.select_dtypes(include=['object']).columns
-for col in object_columns:
-    unique_values = df[col].unique()[:20]  # Get up to 20 distinct values
-    st.write(f"\n**{col}** - {len(unique_values)} distinct values shown:")
-    st.write(unique_values)
-
-# Create distribution plots for numeric columns
-st.write("\n### Distribution Plots")
-numeric_columns = df.select_dtypes(include=['int64', 'float64']).columns
-
-for col in numeric_columns:
-    fig = px.histogram(df, x=col, title=f'Distribution of {col}')
-    st.plotly_chart(fig)
+for sheet_name in ['Activity', 'Demand volumes']:
+    st.write(f"\n## {sheet_name} Sheet Analysis")
     
-    # Add box plot for better distribution visualization
-    fig_box = px.box(df, y=col, title=f'Box Plot of {col}')
-    st.plotly_chart(fig_box)
-
-# Display sample of the data
-st.write("\n### Sample Data")
-st.write(df.head())
+    if not sheet_data[sheet_name]:
+        st.warning(f"No {sheet_name} sheets found in any files")
+        continue
+        
+    # Get all unique columns across files
+    all_columns = set()
+    for data in sheet_data[sheet_name]:
+        all_columns.update(data['columns'])
+    
+    # Create comparison table
+    comparison_data = []
+    for data in sheet_data[sheet_name]:
+        file_name = os.path.basename(data['file'])
+        row = {'File': file_name}
+        for col in all_columns:
+            row[col] = '✓' if col in data['columns'] else '✗'
+        comparison_data.append(row)
+    
+    comparison_df = pd.DataFrame(comparison_data)
+    st.write("Column presence in each file (✓ = present, ✗ = missing):")
+    st.dataframe(comparison_df)
+    
+    # Show summary statistics
+    common_columns = set.intersection(*[data['columns'] for data in sheet_data[sheet_name]])
+    unique_columns = set.union(*[data['columns'] for data in sheet_data[sheet_name]])
+    
+    st.write(f"\nSummary for {sheet_name}:")
+    st.write(f"- Total unique columns across all files: {len(unique_columns)}")
+    st.write(f"- Common columns present in all files: {len(common_columns)}")
+    
+    if common_columns:
+        st.write("\nCommon columns:")
+        st.write(sorted(common_columns))
+    
+    if len(unique_columns) > len(common_columns):
+        st.write("\nColumns that differ between files:")
+        st.write(sorted(unique_columns - common_columns))

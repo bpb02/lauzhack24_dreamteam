@@ -9,26 +9,29 @@ excel_files = [
 ]
 
 # Dictionary to store dataframes by sheet name
-sheet_data = {}
+sheet_data = {
+    'Activity': [],
+    'Demand volumes': []
+}
 
 # Read each Excel file
 for file in excel_files:
     if os.path.exists(file):
         xls = pd.ExcelFile(file)
         
-        # Process each sheet
-        for sheet in xls.sheet_names:
-            if sheet.lower() != 'main':  # Skip 'Main' sheet
+        # Process Activity and Demand volumes sheets
+        for sheet in ['Activity', 'Demand volumes']:
+            if sheet in xls.sheet_names:
                 df = pd.read_excel(file, sheet_name=sheet)
                 
                 # Rename 'unit of measure' column if it exists
-                df.rename(columns={'unit of measure': 'Measure'}, inplace=True)
+                df.rename(columns={'unit of measure': 'Measure', 'Unit of measure': 'Measure'}, inplace=True)
                 
-                # If sheet already exists in dictionary, append the data
-                if sheet in sheet_data:
-                    sheet_data[sheet].append(df)
-                else:
-                    sheet_data[sheet] = [df]
+                # Add file source column
+                df['Source_File'] = os.path.basename(file)
+                
+                # Append to sheet data
+                sheet_data[sheet].append(df)
     else:
         print(f"Warning: File {file} not found")
 
@@ -38,7 +41,7 @@ for sheet_name, dfs in sheet_data.items():
         # Combine all dataframes for this sheet
         combined_df = pd.concat(dfs, ignore_index=True)
         
-        # Save to Excel
-        output_file = f'files/combined_{sheet_name}.xlsx'
-        combined_df.to_excel(output_file, index=False)
+        # Save to CSV
+        output_file = f'files/combined_{sheet_name}.csv'
+        combined_df.to_csv(output_file, index=False)
         print(f"Saved combined data for sheet '{sheet_name}' to {output_file}")

@@ -1,0 +1,435 @@
+Country,Product,Data type,Measure,Date,Value,Source_File,Indication
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-01-01 00:00:00,2415700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-02-01 00:00:00,2546680.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-03-01 00:00:00,2692040.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-04-01 00:00:00,3064760.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-05-01 00:00:00,2862080.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-06-01 00:00:00,2877080.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-07-01 00:00:00,2927400.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-08-01 00:00:00,3153880.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-09-01 00:00:00,3030560.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-10-01 00:00:00,3810540.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-11-01 00:00:00,5079380.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2018-12-01 00:00:00,4899640.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-01-01 00:00:00,4357480.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-02-01 00:00:00,4568100.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-03-01 00:00:00,4649660.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-04-01 00:00:00,5515160.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-05-01 00:00:00,4288000.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-06-01 00:00:00,4600800.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-07-01 00:00:00,4688740.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-08-01 00:00:00,5303720.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-09-01 00:00:00,5859060.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-10-01 00:00:00,4057640.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-11-01 00:00:00,4452560.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2019-12-01 00:00:00,4994260.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-01-01 00:00:00,4165660.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-02-01 00:00:00,4406000.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-03-01 00:00:00,5040540.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-04-01 00:00:00,5860780.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-05-01 00:00:00,4539720.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-06-01 00:00:00,5276600.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-07-01 00:00:00,5815360.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-08-01 00:00:00,5150060.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-09-01 00:00:00,5283020.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-10-01 00:00:00,5659780.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-11-01 00:00:00,5255620.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2020-12-01 00:00:00,5899480.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-01-01 00:00:00,5066920.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-02-01 00:00:00,5357640.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-03-01 00:00:00,6233060.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-04-01 00:00:00,6691640.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-05-01 00:00:00,5001040.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-06-01 00:00:00,6072900.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-07-01 00:00:00,5746840.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-08-01 00:00:00,6913120.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-09-01 00:00:00,6356520.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-10-01 00:00:00,6470860.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-11-01 00:00:00,6643160.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2021-12-01 00:00:00,7302280.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-01-01 00:00:00,6640320.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-02-01 00:00:00,7044660.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-03-01 00:00:00,8116600.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-04-01 00:00:00,8428760.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-05-01 00:00:00,7425980.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-06-01 00:00:00,8568520.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-07-01 00:00:00,8482500.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-08-01 00:00:00,9179600.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-09-01 00:00:00,8812520.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-10-01 00:00:00,8775560.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-11-01 00:00:00,8945980.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2022-12-01 00:00:00,9272860.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-01-01 00:00:00,8165240.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-02-01 00:00:00,8475020.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-03-01 00:00:00,9370660.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-04-01 00:00:00,9527680.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-05-01 00:00:00,8649920.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-06-01 00:00:00,9342280.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-07-01 00:00:00,8750300.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-08-01 00:00:00,9662840.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-09-01 00:00:00,8770500.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-10-01 00:00:00,9398940.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-11-01 00:00:00,9075300.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2023-12-01 00:00:00,9474340.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-01-01 00:00:00,8228220.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-02-01 00:00:00,8726340.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-03-01 00:00:00,7966980.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-04-01 00:00:00,10391580.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-05-01 00:00:00,8973780.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-06-01 00:00:00,8540900.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-07-01 00:00:00,9485580.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-08-01 00:00:00,9147500.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-09-01 00:00:00,8280260.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,INNOVIX,Demand volumes,Milligrams,2024-10-01 00:00:00,9465720.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-01-01 00:00:00,1147540.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-02-01 00:00:00,1310700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-03-01 00:00:00,1333740.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-04-01 00:00:00,1772800.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-05-01 00:00:00,1730220.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-06-01 00:00:00,1775680.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-07-01 00:00:00,1813420.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-08-01 00:00:00,2026660.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-09-01 00:00:00,1720460.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-10-01 00:00:00,2127040.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-11-01 00:00:00,2064520.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2018-12-01 00:00:00,2138160.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-01-01 00:00:00,2267180.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-02-01 00:00:00,2320340.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-03-01 00:00:00,2243700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-04-01 00:00:00,3122820.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-05-01 00:00:00,2685360.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-06-01 00:00:00,2852760.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-07-01 00:00:00,3122600.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-08-01 00:00:00,3309200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-09-01 00:00:00,3798300.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-10-01 00:00:00,2891600.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-11-01 00:00:00,3008500.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2019-12-01 00:00:00,3422700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-01-01 00:00:00,3057900.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-02-01 00:00:00,3545800.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-03-01 00:00:00,3296700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-04-01 00:00:00,4280500.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-05-01 00:00:00,3158600.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-06-01 00:00:00,4067900.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-07-01 00:00:00,4006300.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-08-01 00:00:00,3908300.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-09-01 00:00:00,3943300.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-10-01 00:00:00,4466600.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-11-01 00:00:00,3950800.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2020-12-01 00:00:00,4427600.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-01-01 00:00:00,4227200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-02-01 00:00:00,3990400.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-03-01 00:00:00,4372500.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-04-01 00:00:00,4741400.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-05-01 00:00:00,3857700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-06-01 00:00:00,4414800.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-07-01 00:00:00,3820900.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-08-01 00:00:00,5029900.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-09-01 00:00:00,4426100.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-10-01 00:00:00,4487100.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-11-01 00:00:00,4433700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2021-12-01 00:00:00,4820300.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-01-01 00:00:00,4321100.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-02-01 00:00:00,4410100.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-03-01 00:00:00,4774700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-04-01 00:00:00,5088900.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-05-01 00:00:00,4675700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-06-01 00:00:00,5173100.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-07-01 00:00:00,4676300.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-08-01 00:00:00,5439400.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-09-01 00:00:00,5051200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-10-01 00:00:00,5195200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-11-01 00:00:00,5323200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2022-12-01 00:00:00,5691100.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-01-01 00:00:00,5277000.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-02-01 00:00:00,5411700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-03-01 00:00:00,5757300.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-04-01 00:00:00,6297800.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-05-01 00:00:00,5878900.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-06-01 00:00:00,6447200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-07-01 00:00:00,5822800.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-08-01 00:00:00,6889800.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-09-01 00:00:00,6194100.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-10-01 00:00:00,6795400.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-11-01 00:00:00,6639600.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2023-12-01 00:00:00,6861200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-01-01 00:00:00,6398500.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-02-01 00:00:00,6683700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-03-01 00:00:00,5961000.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-04-01 00:00:00,7722700.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-05-01 00:00:00,7114800.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-06-01 00:00:00,7159400.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-07-01 00:00:00,6675200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-08-01 00:00:00,7470200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-09-01 00:00:00,7017200.0,INNOVIX_Elbonie.xlsx,
+ELBONIE,YREX,Demand volumes,Milligrams,2024-10-01 00:00:00,8108700.0,INNOVIX_Elbonie.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2022-07-01 00:00:00,3488909.2052,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2022-08-01 00:00:00,4227397.714,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2022-09-01 00:00:00,3282557.61,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2022-10-01 00:00:00,3826548.2671999997,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2022-11-01 00:00:00,3381186.2888,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2022-12-01 00:00:00,3254573.6736,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-01-01 00:00:00,4489288.9232,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-02-01 00:00:00,3534613.7515999996,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-03-01 00:00:00,4189949.5831999998,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-04-01 00:00:00,3749597.296,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-05-01 00:00:00,4038153.6876000003,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-06-01 00:00:00,4040897.44,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-07-01 00:00:00,4183560.8224,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-08-01 00:00:00,4256469.6532000005,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-09-01 00:00:00,3873737.472,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-10-01 00:00:00,4348896.677999999,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-11-01 00:00:00,4068761.6544,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2023-12-01 00:00:00,3598225.6228,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2024-01-01 00:00:00,5015136.862,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2024-02-01 00:00:00,3930289.9072,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2024-03-01 00:00:00,4407849.4692,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2024-04-01 00:00:00,4629089.7252,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2024-05-01 00:00:00,4307241.5824,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2024-06-01 00:00:00,3699709.6232,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Milligrams,2024-07-01 00:00:00,4633585.1488,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2020-08-01 00:00:00,7135.4428,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2020-09-01 00:00:00,7825.007,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2020-10-01 00:00:00,8191.0239,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2020-11-01 00:00:00,7232.573,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2020-12-01 00:00:00,7152.7927,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-01-01 00:00:00,8835.9182,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-02-01 00:00:00,6574.1432,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-03-01 00:00:00,8410.0409,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-04-01 00:00:00,7323.1211,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-05-01 00:00:00,7395.9758,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-06-01 00:00:00,8237.2389,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-07-01 00:00:00,6851.9575,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-08-01 00:00:00,7768.2703,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-09-01 00:00:00,7142.2211,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-10-01 00:00:00,7195.4451,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-11-01 00:00:00,7298.9416,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2021-12-01 00:00:00,6512.1015,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-01-01 00:00:00,8172.6422,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-02-01 00:00:00,6759.6729,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-03-01 00:00:00,7425.2215,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-04-01 00:00:00,7203.3855,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-05-01 00:00:00,7776.7678,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-06-01 00:00:00,7591.28,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-07-01 00:00:00,7268.560841666666,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-08-01 00:00:00,8807.078566666667,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-09-01 00:00:00,6838.661683333334,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-10-01 00:00:00,7971.975550000001,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-11-01 00:00:00,7044.138099999999,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2022-12-01 00:00:00,6780.361816666667,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-01-01 00:00:00,9352.68525,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-02-01 00:00:00,7363.778641666667,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-03-01 00:00:00,8729.061625,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-04-01 00:00:00,7811.661033333334,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-05-01 00:00:00,8412.820175,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-06-01 00:00:00,8418.536333333333,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-07-01 00:00:00,8715.751708333331,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-08-01 00:00:00,8867.645108333332,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-09-01 00:00:00,8070.286399999999,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-10-01 00:00:00,9060.201408333334,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-11-01 00:00:00,8476.586775,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2023-12-01 00:00:00,7496.303375,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2024-01-01 00:00:00,10448.201791666665,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2024-02-01 00:00:00,8188.103966666667,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2024-03-01 00:00:00,9183.019724999998,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2024-04-01 00:00:00,9643.936925,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2024-05-01 00:00:00,8973.419958333334,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2024-06-01 00:00:00,7707.728375000001,INNOVIX_Floresland.xlsx,
+Floresland,INNOVIX,Demand volumes,Month of treatment,2024-07-01 00:00:00,9653.302391666668,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2022-07-01 00:00:00,5037097.12,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2022-08-01 00:00:00,5226058.176,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2022-09-01 00:00:00,5286216.832,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2022-10-01 00:00:00,5068077.888,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2022-11-01 00:00:00,5263317.791999999,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2022-12-01 00:00:00,5123997.12,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-01-01 00:00:00,5859677.408,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-02-01 00:00:00,5309777.408,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-03-01 00:00:00,6212396.640000001,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-04-01 00:00:00,5635337.504,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-05-01 00:00:00,5738657.216,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-06-01 00:00:00,6342596.640000001,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-07-01 00:00:00,6106536.544,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-08-01 00:00:00,6701397.12,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-09-01 00:00:00,6264276.448,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-10-01 00:00:00,6578856.736,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-11-01 00:00:00,6475116.832,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2023-12-01 00:00:00,5962875.007999999,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2024-01-01 00:00:00,7716556.736,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2024-02-01 00:00:00,6715976.927999999,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2024-03-01 00:00:00,6656715.392,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2024-04-01 00:00:00,7397236.544,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2024-05-01 00:00:00,6986356.256,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2024-06-01 00:00:00,6229175.698,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Milligrams,2024-07-01 00:00:00,7726776.448,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2020-08-01 00:00:00,8755.65,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2020-09-01 00:00:00,9645.6619,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2020-10-01 00:00:00,11365.3433,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2020-11-01 00:00:00,10154.6358,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2020-12-01 00:00:00,10652.5738,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-01-01 00:00:00,12404.6696,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-02-01 00:00:00,10952.5781,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-03-01 00:00:00,12962.264,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-04-01 00:00:00,13179.1638,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-05-01 00:00:00,12206.0452,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-06-01 00:00:00,13767.1041,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-07-01 00:00:00,14457.8023,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-08-01 00:00:00,13878.8295,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-09-01 00:00:00,14468.8381,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-10-01 00:00:00,14570.9085,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-11-01 00:00:00,14638.1502,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2021-12-01 00:00:00,13912.6235,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-01-01 00:00:00,15855.4104,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-02-01 00:00:00,14036.4183,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-03-01 00:00:00,16610.9382,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-04-01 00:00:00,16155.0696,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-05-01 00:00:00,16554.3867,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-06-01 00:00:00,16682.3196,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-07-01 00:00:00,18889.1142,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-08-01 00:00:00,19597.7181375,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-09-01 00:00:00,19823.3131125,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-10-01 00:00:00,19005.29205,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-11-01 00:00:00,19737.4417125,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2022-12-01 00:00:00,19214.9892,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-01-01 00:00:00,21973.790249999995,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-02-01 00:00:00,19911.66525,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-03-01 00:00:00,23296.487399999998,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-04-01 00:00:00,21132.515625,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-05-01 00:00:00,21519.9645375,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-06-01 00:00:00,23784.737399999998,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-07-01 00:00:00,22899.512025,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-08-01 00:00:00,25130.2392,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-09-01 00:00:00,23491.03665,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-10-01 00:00:00,24670.7127375,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-11-01 00:00:00,24281.6881125,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2023-12-01 00:00:00,22360.78125,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2024-01-01 00:00:00,28937.087737499995,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2024-02-01 00:00:00,25184.913449999996,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2024-03-01 00:00:00,24962.6827125,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2024-04-01 00:00:00,27739.637024999996,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2024-05-01 00:00:00,26198.835937499996,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2024-06-01 00:00:00,23359.4088375,INNOVIX_Floresland.xlsx,
+Floresland,YREX,Demand volumes,Month of treatment,2024-07-01 00:00:00,28975.41165,INNOVIX_Floresland.xlsx,
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,sept-2020,3087.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,oct-2020,4886.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,nov-2020,8077.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,déc-2020,12321.999999999998,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,janv-2021,13030.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,févr-2021,16786.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mars-2021,21709.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,avr-2021,23780.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mai-2021,24779.999999999996,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juin-2021,28959.000000000004,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juil-2021,33293.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,août-2021,40416.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,sept-2021,42466.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,oct-2021,48409.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,nov-21,50690.62688549514,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,déc-21,50570.86129506406,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,janv-22,50917.38064457378,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,févr-22,50780.830461042446,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mars-22,62515.4960979194,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,avr-22,61091.1275558166,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mai-22,67640.89711047143,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juin-22,66007.87039890225,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juil-22,73846.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,août-22,75905.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,sept-22,70894.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,oct-22,74207.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,nov-22,78316.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,déc-22,82382.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,janv-23,85614.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,févr-23,74336.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mars-23,90670.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,avr-23,79502.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mai-23,90902.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juin-23,97073.41494582832,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juil-23,93544.6124197002,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,août-23,91053.96837686568,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,sept-23,90968.73628452516,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,oct-23,99647.55917260089,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,nov-23,99170.40168563,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,déc-23,92128.06173975262,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,janv-24,105609.36686611816,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,févr-24,99594.88319810684,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mars-24,100535.36064374541,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,avr-24,109092.15831823125,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mai-24,105207.57937932803,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juin-24,103557.21659736033,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,sept-2020,3361578.486588872,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,oct-2020,3682805.049904428,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,nov-2020,3490745.9232494356,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,déc-2020,3547696.243249076,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,janv-2021,3472993.498248056,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,févr-2021,3315929.98658722,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,mars-2021,3641900.009896528,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,avr-2021,3551708.563240636,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,mai-2021,3193625.3765833518,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,juin-2021,3406375.1032541962,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,juil-2021,3977538.4765671277,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,août-2021,3435839.2765812837,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,sept-2021,3535960.159905688,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,oct-2021,3687867.474907376,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,nov-21,3614874.184921808,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,déc-21,3602962.333258296,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,janv-22,3601168.364913044,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,févr-22,3373470.70659328,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,mars-22,3723241.474904788,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,avr-22,3500160.684920324,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,mai-22,3750982.696581964,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,juin-22,3452331.8265931923,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,juil-22,3811340.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,août-22,3634373.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,sept-22,3682495.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,oct-22,3668600.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,nov-22,3795394.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,déc-22,3728224.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,janv-23,3770941.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,févr-23,3438942.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,mars-23,3918489.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,avr-23,3545970.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,mai-23,3773243.0,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,juin-23,3701381.146598948,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,juil-23,3881434.451599964,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,août-23,3676930.559938584,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,sept-23,3645884.78493998,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,oct-23,3828949.794939516,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,nov-23,3862052.354939704,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,déc-23,3600937.726614616,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,janv-24,3954515.336612672,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,févr-24,3732976.169941636,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,mars-24,3617622.431609832,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,avr-24,4003511.143274236,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,mai-24,3693297.1332794284,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,Competitors,Demand volumes,Days of Treatment,juin-24,3580811.736616604,BRISTOR_Zegoland.xlsx,Indication A
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,nov-21,2.0,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,déc-21,54.0,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,janv-22,86.81488291812218,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,févr-22,117.70420402052235,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mars-22,175.6110871916908,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,avr-22,110.75745021972821,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mai-22,208.6061223954601,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juin-22,186.87549373472052,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juil-22,197.0,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,août-22,217.0,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,sept-22,284.0,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,oct-22,223.0,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,nov-22,241.0,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,déc-22,379.51725587864803,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,janv-23,253.5562926284486,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,févr-23,308.9740501169193,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mars-23,427.4933761096205,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,avr-23,316.3238931742188,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mai-23,384.6326019693257,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juin-23,397.1041661645486,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juil-23,394.7634272975274,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,août-23,417.83117665099144,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,sept-23,401.76209475533733,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,oct-23,419.85010939394306,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,nov-23,426.6607664998355,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,déc-23,510.9020797889548,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,janv-24,490.50848659337544,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,févr-24,448.7052099252546,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mars-24,423.47307472617786,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,avr-24,592.5646580307534,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,mai-24,508.41930807688686,BRISTOR_Zegoland.xlsx,Indication B
+Zegoland,BRISTOR,Demand volumes,Days of Treatment,juin-24,516.453152963496,BRISTOR_Zegoland.xlsx,Indication B
