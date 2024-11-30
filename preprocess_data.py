@@ -4,8 +4,8 @@ import os
 # Define the Excel files
 excel_files = [
     'files/INNOVIX_Elbonie.xlsx',
-    'files/BRISTOR_Elbonie.xlsx', 
-    'files/INNOVIX_Foresland.xlsx'
+    'files/INNOVIX_Floresland.xlsx',
+    'files/BRISTOR_Zegoland.xlsx'
 ]
 
 # Dictionary to store dataframes by sheet name

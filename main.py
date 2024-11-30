@@ -2,9 +2,18 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# Read the Excel file
-excel_file = 'files/INNOVIX_Elbonie.xlsx'
-xls = pd.ExcelFile(excel_file)
+# Define the Excel files
+excel_files = [
+    'files/INNOVIX_Elbonie.xlsx',
+    'files/INNOVIX_Floresland.xlsx',
+    'files/BRISTOR_Zegoland.xlsx'
+]
+
+# Create a file selector
+selected_file = st.selectbox('Select an Excel file:', excel_files)
+
+# Read the selected Excel file
+xls = pd.ExcelFile(selected_file)
 
 # Get all sheet names except 'Main'
 sheet_names = [sheet for sheet in xls.sheet_names if sheet.lower() != 'main']
@@ -13,7 +22,7 @@ sheet_names = [sheet for sheet in xls.sheet_names if sheet.lower() != 'main']
 selected_sheet = st.selectbox('Select a sheet:', sheet_names)
 
 # Read the selected sheet
-df = pd.read_excel(excel_file, sheet_name=selected_sheet)
+df = pd.read_excel(selected_file, sheet_name=selected_sheet)
 
 # Display basic information about the data
 st.write("### Data Overview")
