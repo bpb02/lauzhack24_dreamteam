@@ -5,8 +5,8 @@ from openai import OpenAI
 import json
 from pathlib import Path
 
-# Initialize OpenAI client with API key
-client = OpenAI(api_key="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")
+# Initialize OpenAI client with API key from environment variable
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 # Create cache directory if it doesn't exist
 cache_dir = Path("cache")
